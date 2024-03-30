@@ -21,14 +21,15 @@ import { getMessaging } from "firebase/messaging";
 //   measurementId: "G-4DTW3QXLRX",
 // };
 
+// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCfGAPrWi8ZsqmMUZnr5jwVd_6p4u4Sy68",
-  authDomain: "petdentity-c98e6.firebaseapp.com",
-  projectId: "petdentity-c98e6",
-  storageBucket: "petdentity-c98e6.appspot.com",
-  messagingSenderId: "997443954488",
-  appId: "1:997443954488:web:8be71a30e45aff417f43cd",
-  measurementId: "G-8PHXZLXM8Z",
+  apiKey: "AIzaSyBfNKlP5VfyjA-yiHzTtQEbBrLZNU35GPM",
+  authDomain: "sdms-11a98.firebaseapp.com",
+  projectId: "sdms-11a98",
+  storageBucket: "sdms-11a98.appspot.com",
+  messagingSenderId: "359685301314",
+  appId: "1:359685301314:web:e2f1559e533f7a703439db",
+  measurementId: "G-JBCB1Q2HC3",
 };
 
 // Initialize Firebase
